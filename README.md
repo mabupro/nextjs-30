@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+1. **基本的なReactアプリのセットアップ**
+   - 簡単なReactアプリを作成し、画面に "Hello, World!" を表示してください。
 
-## Getting Started
+2. **カウンターアプリ**
+   - ボタンをクリックすると数字が増えるカウンターアプリを作成してください。
 
-First, run the development server:
+3. **タイマーアプリ**
+   - タイマーを実装し、スタート・ストップ・リセットの機能を持つシンプルなタイマーアプリを作成してください。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+4. **日付の表示**
+   - 現在の日付を表示するアプリを作成してください。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. **カレンダーアプリ**
+   - シンプルなカレンダーアプリを構築し、月ごとに日付を表示してください。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+6. **スタイリングの追加**
+   - Tailwind CSSを使用して、アプリにスタイリングを追加してください。
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+7. **カウントアップタイマー**
+   - ページが読み込まれたら自動的に数秒ごとに数をカウントアップするタイマーアプリを作成してください。
 
-## Learn More
+8. **リマインダーアプリ**
+   - 特定の日時に通知する簡単なリマインダーアプリを作成してください。
 
-To learn more about Next.js, take a look at the following resources:
+9. **ユーザー入力フォーム**
+   - ユーザーに名前やメッセージを入力して送信できるフォームを作成してください。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+10. **ToDoリスト**
+    - ToDoリストを追加、更新、削除できる簡単なアプリを作成してください。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+11. **天気アプリ**
+    - 外部APIを使用して、現在の天気を表示するアプリを作成してください。
 
-## Deploy on Vercel
+12. **カウントダウンタイマー**
+    - 特定の日時までのカウントダウンを行うタイマーアプリを作成してください。
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+13. **画像ギャラリー**
+    - 画像のギャラリーを表示し、クリックすると拡大表示できるアプリを作成してください。
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+14. **モーダルの表示**
+    - ボタンをクリックするとモーダルが表示されるアプリを作成してください。
+
+15. **ブログ記事リスト**
+    - シンプルなブログ記事のリストを表示するアプリを作成してください。
+
+16. **ドラッグアンドドロップ**
+    - ドラッグアンドドロップで要素を並べ替えられるToDoリストを作成してください。
+
+17. **地図表示**
+    - Google Maps APIやMapboxなどを使用して、地図を表示するアプリを作成してください。
+
+18. **ランダムクイズアプリ**
+    - 外部APIを使用してランダムなクイズを表示するアプリを作成してください。
+
+19. **カウントダウンイベント**
+    - 特定のイベントまでの残り日数をカウントダウンするアプリを作成してください。
+
+20. **バーガーメニュー**
+    - バーガーメニューを実装し、メニューアイテムをクリックすると詳細が表示されるアプリを作成してください。
+
+21. **YouTube動画検索**
+    - YouTube APIを使用して、キーワードで動画を検索するアプリを作成してください。
+
+22. **リアルタイムクロック**
+    - リアルタイムで更新されるアナログまたはデジタルクロックを表示するアプリを作成してください。
+
+23. **タイピングゲーム**
+    - タイピング速度を測定するシンプルなゲームを作成してください。
+
+24. **音楽プレーヤー**
+    - 音楽を再生できる簡単な音楽プレーヤーアプリを作成してください。
+
+25. **簡易チャットアプリ**
+    - ユーザー名を入力し、メッセージを送信できるシンプルなチャットアプリを作成してください。
+
+26. **計算機アプリ**
+    - 四則演算が可能な簡易計算機アプリを作成してください。
+
+27. **QRコード生成**
+    - テキストやURLからQRコードを生成するアプリを作成してください。
+
+28. **デジタルノートアプリ**
+    - メモやToDoを保存できるデジタルノートアプリを作成してください。
+
+29. **ユーザーアイコン生成**
+    - ランダムなユーザーアイコンを生成するアプリを作成してください。
+
+30. **カメラアプリ**
+    - ブラウザのカメラを使用して写真を撮影し、表示するアプリを作成してください。
