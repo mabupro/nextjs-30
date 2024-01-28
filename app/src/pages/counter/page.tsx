@@ -16,7 +16,7 @@ const Counter = () => {
                 <button
                     type="button"
                     onClick={plusCounter}
-                    className="text-3xl font-bold mx-auto p-5 px-20 rounded-md bg-emerald-500"
+                    className="text-3xl font-bold mx-auto p-5 px-20 shadow-md rounded-md bg-emerald-500 hover:bg-emerald-400"
                 >+</button>
             </div>
         </>
